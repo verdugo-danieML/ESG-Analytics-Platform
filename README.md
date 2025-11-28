@@ -56,7 +56,7 @@ graph LR
     style E fill:#f3e5f5
     style F fill:#fff3e0
 ```
-## Tech Stack
+## **Tech Stack**
 
 | Layer| Technologies |
 |---|---|
@@ -69,11 +69,11 @@ graph LR
 | ML | Scikit-learn, XGBoost, MLflow (coming in Phase 2) |
 | Visualization | Power BI, Streamlit (coming in Phase 3) |
 
-## 🚀 Quick Start
+## 🚀 **Quick Start**
 
-Prerequisites
-    * Docker & Docker Compose
-    * Python 3.11+
-    * Git
-    * (Optional) AWS account for cloud deployment
+**Prerequisites:**
+* Docker & Docker Compose
+* Python 3.11+
+* Git
+* (Optional) AWS account for cloud deployment
 

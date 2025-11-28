@@ -55,3 +55,25 @@ graph LR
     style D fill:#fce4ec
     style E fill:#f3e5f5
     style F fill:#fff3e0
+```
+## Tech Stack
+
+| Layer| Technologies |
+|---|---|
+| Orchestration | Apache Airflow, Docker Compose |
+| Ingestion | 	Python, BeautifulSoup, Selenium, API Clients |
+| Storage | AWS S3 / MinIO, Delta Lake, PostgreSQL |
+| Transformation | dbt, Pandas, PySpark |
+| Quality | Great Expectations, Pandera, dbt tests |
+| Analytics | SQL, Python, DuckDB |
+| ML | Scikit-learn, XGBoost, MLflow (coming in Phase 2) |
+| Visualization | Power BI, Streamlit (coming in Phase 3) |
+
+## 🚀 Quick Start
+
+Prerequisites
+    * Docker & Docker Compose
+    * Python 3.11+
+    * Git
+    * (Optional) AWS account for cloud deployment
+
